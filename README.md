@@ -1,9 +1,8 @@
 # Olá! Eu sou a Joabe Conrado 👋
-[![Linkedin](https://img.shields.io/badge/-JoabeConrado-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joabe-conrado-borges-cavalcante-b77919218/](https://www.linkedin.com/in/joabe-conrado-borges-cavalcante-b77919218/)
-[![Youtube](https://img.shields.io/badge/-@ianevictoria-f45572?style=flat&logo=youtube&logoColor=white&link=https://www.linkedin.com/in/joabe-conrado-borges-cavalcante-b77919218/](https://www.linkedin.com/in/joabe-conrado-borges-cavalcante-b77919218/)
-[![Instagram](https://img.shields.io/badge/-@JoabeConrado-7f4ca5?style=flat&logo=instagram&logoColor=white&link=https://www.linkedin.com/in/joabe-conrado-borges-cavalcante-b77919218/)](https://www.linkedin.com/in/joabe-conrado-borges-cavalcante-b77919218/)
-[![Twitter](https://img.shields.io/badge/-@JoabeConrado-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://www.linkedin.com/in/joabe-conrado-borges-cavalcante-b77919218/)](https://www.linkedin.com/in/joabe-conrado-borges-cavalcante-b77919218/)
-[![Gmail](https://img.shields.io/badge/-joabe.conrado19-fa8072?style=flat&logo=Gmail&logoColor=white&link=mailto:joabe.conrado19@gmail.com](mailto:joabe.conrado19@gmail.com)
+
+[![Linkedin](https://img.shields.io/badge/-JoabeBorges-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joabe-conrado-borges-cavalcante-b77919218/)](https://www.linkedin.com/in/joabe-conrado-borges-cavalcante-b77919218/)
+[![Gmail](https://img.shields.io/badge/-joabeconrado-fa8072?style=flat&logo=Gmail&logoColor=white&link=mailto:joabe.conrado19@gmail.com)](mailto:joabe.conrado19@gmail.com)
+
 
 Saudações! 🤖  Eu sou Joabe Conrado, Desenvolvedor Full-Stack , tenho 21 anos e atualmente cursando Engenharia da computação na UFAM Obrigado por visitar e eu adoraria me [conectar](https://www.linkedin.com/in/joabe-conrado-borges-cavalcante-b77919218/)!😊
 
