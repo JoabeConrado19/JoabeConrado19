@@ -6,6 +6,13 @@
 
 Saudações! 🤖  Eu sou Joabe Conrado, Desenvolvedor Full-Stack , tenho 21 anos e atualmente cursando Engenharia da computação na UFAM Obrigado por visitar e eu adoraria me [conectar](https://www.linkedin.com/in/joabe-conrado-borges-cavalcante-b77919218/)!😊
 
+<div>
+  <img alt="Profile stats" src="https://github-readme-stats.vercel.app/api?username=JoabeConrado19&show_icons=true&count_private=true&include_all_commits=true&title_color=dbb6ee&icon_color=dbb6ee&text_color=dbb6ee&bg_color=0d1117&hide_border=true"/>
+  <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoabeConrado19&layout=compact&title_color=dbb6ee&icon_color=dbb6ee&text_color=dbb6ee&bg_color=0d1117&hide_border=true"/>
+</div>
+
+<div>
+
 ## My Stack
 
 [<img src="[https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,figma,vscode,git,github&theme=dark](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,express,python,tailwind,figma,vscode,git,github,docker,bootstrap,nodejs,django,mongodb,nginx,opencv,postgres,py,pytorch,regex,sqlite&theme=dark)](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,express,python,tailwind,figma,vscode,git,github,docker,bootstrap,nodejs,django,mongodb,nginx,opencv,postgres,py,pytorch,regex,sqlite&theme=dark)" />
@@ -13,11 +20,4 @@ Saudações! 🤖  Eu sou Joabe Conrado, Desenvolvedor Full-Stack , tenho 21 ano
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,express,python,tailwind,figma,vscode,git,github,docker,bootstrap,nodejs,django,mongodb,nginx,opencv,postgres,py,pytorch,regex,sqlite&theme=dark" />
 
-
-<div>
-  <img alt="Profile stats" src="https://github-readme-stats.vercel.app/api?username=JoabeConrado19&show_icons=true&count_private=true&include_all_commits=true&title_color=dbb6ee&icon_color=dbb6ee&text_color=dbb6ee&bg_color=0d1117&hide_border=true"/>
-  <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoabeConrado19&layout=compact&title_color=dbb6ee&icon_color=dbb6ee&text_color=dbb6ee&bg_color=0d1117&hide_border=true"/>
-</div>
-
-<div>
 
