@@ -10,3 +10,16 @@ Saudações! 🤖  Eu sou Joabe Conrado, Desenvolvedor Full-Stack , tenho 21 ano
   <img alt="Profile stats" src="https://github-readme-stats.vercel.app/api?username=JoabeConrado19&show_icons=true&count_private=true&include_all_commits=true&title_color=dbb6ee&icon_color=dbb6ee&text_color=dbb6ee&bg_color=0d1117&hide_border=true"/>
   <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoabeConrado19&layout=compact&title_color=dbb6ee&icon_color=dbb6ee&text_color=dbb6ee&bg_color=0d1117&hide_border=true"/>
 </div>
+
+
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+
+<div><br />
+
+## My Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,figma,vscode,git,github&theme=dark" />
+
+<br />
+
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
