@@ -11,8 +11,7 @@
 
  
   <div align="center" >
-[<img src="[https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,figma,vscode,git,github&theme=dark](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,express,python,tailwind,figma,vscode,git,github,docker,bootstrap,nodejs,django,mongodb,nginx,opencv,postgres,py,pytorch,regex,sqlite&theme=dark)](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,express,python,tailwind,figma,vscode,git,github,docker,bootstrap,nodejs,django,mongodb,nginx,opencv,postgres,py,pytorch,regex,sqlite&theme=dark)" />
-]([https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,express,python,tailwind,figma,vscode,git,github,docker,bootstrap,nodejs,django,mongodb,nginx,opencv,postgres,py,pytorch,regex,sqlite&theme=dark](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,express,python,tailwind,figma,vscode,git,github,docker,bootstrap,nodejs,django,mongodb,nginx,opencv,postgres,py,pytorch,regex,sqlite&theme=dark))
+
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,express,python,tailwind,figma,vscode,git,github,docker,bootstrap,nodejs,django,mongodb,nginx,opencv,postgres,py,pytorch,regex,sqlite&theme=dark" />
   <br />
