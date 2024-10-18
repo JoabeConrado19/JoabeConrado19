@@ -10,7 +10,7 @@
 
  <h3>Minhas melhores formas de contato: </h3>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-d40000?style=red&logo=gmail&logoColor=white)]([mail:joabe.conrado19@gmail.com](mail:joabe.conrado19@gmail.com)) [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=&logo=linkedin&logoColor=white)]([[https://www.instagram.com/perotedev/](https://www.linkedin.com/in/joabe-conrado-borges-cavalcante-b77919218/)](https://www.linkedin.com/in/joabe-conrado-borges-cavalcante-b77919218/))
+  [![Gmail](https://img.shields.io/badge/Gmail-d40000?style=red&logo=gmail&logoColor=white)]((mail:joabe.conrado19@gmail.com)) [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joabe-conrado-borges-cavalcante-b77919218/)
 
   ##
 
