@@ -9,10 +9,10 @@
  | ----------- | ----------- |
 
 
- 
   <div align="center" >
-
-
+ <h3>Minhas Stacks</h3>
+  
+ 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,express,python,tailwind,figma,vscode,git,github,docker,bootstrap,nodejs,django,mongodb,nginx,opencv,postgres,py,pytorch,regex,sqlite&theme=dark" />
   <br />
 
@@ -20,12 +20,4 @@
 
   ##
 
-
-
-
-
- <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=JoabeConrado19&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
-  
 
