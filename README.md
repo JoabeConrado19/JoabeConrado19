@@ -4,7 +4,7 @@
 
 
 
-- 🧔 Sou um analista de desenvolvimento na Statera Amazon.
+- 🧔 Sou um analista de desenvolvimento no Instituto de pesquisas Eldorado.
 - 🌱 Estudante de engenharia de software.
 ##
 
